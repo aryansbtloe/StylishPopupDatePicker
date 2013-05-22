@@ -288,6 +288,7 @@
 				GCC_PREFIX_HEADER = "StylishPopupDatePicker/StylishPopupDatePicker-Prefix.pch";
 				INFOPLIST_FILE = "StylishPopupDatePicker/StylishPopupDatePicker-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -299,6 +300,7 @@
 				GCC_PREFIX_HEADER = "StylishPopupDatePicker/StylishPopupDatePicker-Prefix.pch";
 				INFOPLIST_FILE = "StylishPopupDatePicker/StylishPopupDatePicker-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -322,6 +324,7 @@
 				5C6B9722174CF43C00C98D7E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
